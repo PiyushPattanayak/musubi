@@ -191,6 +191,11 @@ Add `web/` and `mobile/` only when we get there — no need to create them now.
 
 ---
 
+## Git Workflow
+See [GIT_WORKFLOW.md](GIT_WORKFLOW.md) for full solo and shared feature branch workflows.
+
+---
+
 ## Key Decisions
 - **Invite links** instead of explicit member adds — anyone with the token can join a private channel
 - **File I/O first, then Postgres** — so the migration feels meaningful, not arbitrary
